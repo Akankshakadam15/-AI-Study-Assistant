@@ -1,0 +1,6 @@
+# Ignore DB and uploads
+data/*.db
+uploads/
+.env
+__pycache__/
+venv/
